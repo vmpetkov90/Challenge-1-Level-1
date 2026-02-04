@@ -1,4 +1,4 @@
-# Personal Portfolio Challenge:
+# Personal Portfolio Challenge
 
 ## Challenge: 
 Create a personal portfolio webpage showcasing your skills, projects, and contact information using HTML and CSS.
